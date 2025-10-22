@@ -779,6 +779,9 @@
   .w-16 {
     width: calc(var(--spacing) * 16);
   }
+  .w-26 {
+    width: calc(var(--spacing) * 26);
+  }
   .w-\[calc\(\(100\%-var\(--container-3xl\)\)\/2\)\] {
     width: calc((100% - var(--container-3xl)) / 2);
   }
